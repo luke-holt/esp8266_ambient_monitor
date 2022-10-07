@@ -1,0 +1,6 @@
+mqtt_test.py
+null.d
+.vscode/
+build/
+sdkconfig
+sdkconfig.old
