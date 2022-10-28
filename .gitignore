@@ -1,6 +1,8 @@
 mqtt_test.py
 null.d
 .vscode/
+.cache/
 build/
 sdkconfig
 sdkconfig.old
+compile_commands.json
